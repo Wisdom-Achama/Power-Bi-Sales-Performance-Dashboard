@@ -1,4 +1,4 @@
-# Power-Bi-Sales-Performance-Dashboard# Power BI Sales Performance & Promotional Analysis
+# Power-Bi-Sales-Performance-Dashboard Power BI Sales Performance & Promotional Analysis
 
 ## Project Overview
 This project involves a comprehensive analysis of sales data to uncover trends, evaluate promotional effectiveness, and identify product performance drivers. The interactive Power BI dashboard provides actionable insights for strategic decision-making in sales and marketing.
